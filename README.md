@@ -24,12 +24,12 @@ Tous les projets présentés ci-dessous sont le fruit d'un travail collaboratif 
 * Implémentation d'un pipeline de rendu Physically Based Rendering (PBR) avec ombrage de Cook-Torrance, occlusion ambiante (Vertex AO) et Normal Mapping.
 
 #### 🌊 Simulation d'Érosion Fluide (C++ / OpenGL)
-*Réalisation en binôme d'une simulation hydraulique et thermique.*
+*Réalisation en équipe d'une simulation hydraulique et thermique.*
 * Implémentation des *Shallow Water Equations* pour simuler l'écoulement des fluides et l'érosion des terrains.
 * Parallélisation massive des calculs sur GPU via **Compute Shaders**, permettant d'atteindre un rendu temps réel à plus de 960 FPS.
 
 #### 🌀 Moteur Portal & Solveur Physique (C++ / OpenGL)
-*Création collaborative d'un moteur 3D intégrant une mécanique spatiale non euclidienne.*
+*Création en binôme d'un moteur 3D intégrant une mécanique spatiale non euclidienne.*
 * Développement d'un moteur physique "from scratch" avec détection continue des collisions (CCD) pour éviter le *tunneling*.
 * Gestion de l'espace continu (Stencil Buffer, clonage visuel) et illumination globale mise en cache par Sondes Harmoniques (SH Probes).
 
@@ -47,4 +47,4 @@ Tous les projets présentés ci-dessous sont le fruit d'un travail collaboratif 
 
 ### 🔗 Liens & Contact
 * **Portfolio & Analyses Techniques :** [Lien vers le portfolio]
-* **LinkedIn :** [Lien vers LinkedIn]
+* **LinkedIn :** https://www.linkedin.com/in/thomas-barascud-7b33b3419/
