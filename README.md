@@ -35,8 +35,8 @@ Tous les projets présentés ci-dessous sont le fruit d'un travail collaboratif 
 
 #### 🍳 OvercookMini & IA Multi-Agents (Python)
 *Développement en équipe d'un environnement de simulation coopératif.*
-* Programmation d'un moteur 2D asynchrone et d'un algorithme de génération procédurale de cartes topologiques validées[cite: 2, 4, 5].
-* Modélisation d'intelligences artificielles autonomes avec pathfinding dynamique, évitement d'obstacles en temps réel et résolution algorithmique des conflits de répartition des tâches[cite: 1, 8].
+* Programmation d'un moteur 2D asynchrone et d'un algorithme de génération procédurale de cartes topologiques validées.
+* Modélisation d'intelligences artificielles autonomes avec pathfinding dynamique, évitement d'obstacles en temps réel et résolution algorithmique des conflits de répartition des tâches.
 
 #### 🌍 Application Mobile : Réseau Social & Générateur d'Itinéraires (Java)
 *Co-création d'une plateforme mobile combinant réseau social photographique et planification de voyage.*
