@@ -46,5 +46,5 @@ Tous les projets présentés ci-dessous sont le fruit d'un travail collaboratif 
 ---
 
 ### 🔗 Liens & Contact
-* **Portfolio & Analyses Techniques :** [Lien vers le portfolio]
-* **LinkedIn :** https://www.linkedin.com/in/thomas-barascud-7b33b3419/
+* **Portfolio & Analyses Techniques :** https://thomasbrcd.github.io
+* **LinkedIn :** https://www.linkedin.com/in/thomas-barascud-7b33b3419
